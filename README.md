@@ -1,14 +1,14 @@
-<h2>Oi eu sou o Kauã Alves, atualmente estudante de programação</h2>
+### Hi, my name is Kauã
 
+I'm a Brazilian fullstack developer passionate about frontend and backend development, as well as IA. I'm currently studying System Analysis and Development at Fatec Carapicuíba.
 
-<div class="div" align="center">
+<div class=" div" align="center">
   <a href="https://github.com/kkauadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkauadev&show_icons=true&bg_color=0A0C10&text_color=F0F3F6&hide_border=fff&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauadev&layout=compact&bg_color=0A0C10&text_color=F0F3F6&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10&hide_border=fff)](https://github.com/kkauadev/github-readme-stats"/>
 </div>
 
-  
-<h3>Tecnologias que eu domino</h3>
+### Tecnologias que eu domino
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

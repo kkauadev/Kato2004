@@ -1,17 +1,19 @@
 ### Hi, my name is Kauã
 
-I'm a Brazilian fullstack developer passionate about frontend and backend development, as well as IA. I'm currently studying System Analysis and Development at Fatec Carapicuíba.
+I'm a Brazilian fullstack developer passionate about frontend and backend development, as well as IA. I'm currently studying System Analysis and Development at Fatec Carapicuíba 
+and in my free time I create projects.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,py,postgres,docker,dotnet,cs,azure,java"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,dotnet,react,postgres,docker"/>
 </div>
 </br>
 
 <details align="center">
   <summary>My stats :chart_with_upwards_trend:</summary>
   <br/>
-  <a href="https://github.com/kkauadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkauadev&show_icons=true&bg_color=0A0C10&text_color=F0F3F6&hide_border=fff&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauadev&layout=compact&bg_color=0A0C10&text_color=F0F3F6&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10&hide_border=fff)](https://github.com/kkauadev/github-readme-stats"/>
+  <a href="#" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kkauadev&rank_icon=github&hide_title=true&card_width=300px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauadev&layout=compact&card_width=400px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&icon_color=2F81F7&hide_border=true" />
   </a>
 </details>
+

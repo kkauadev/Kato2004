@@ -11,7 +11,7 @@ and in my free time I create projects.
 <details align="center">
   <summary>My stats :chart_with_upwards_trend:</summary>
   <br/>
-  <a href="#" align="center">
+  <a href="https://github.com/kkauadev" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kkauadev&rank_icon=github&hide_title=true&card_width=300px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauadev&layout=compact&card_width=400px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&icon_color=2F81F7&hide_border=true" />
   </a>
